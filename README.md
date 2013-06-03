@@ -1,4 +1,3 @@
 siren
 =====
-
-A chat client/server written in Python
+A decentralized two-step authentication for OSes written in Python
